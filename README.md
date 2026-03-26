@@ -59,7 +59,9 @@ This is not just a static template; it is a full-fledged web application built f
 
 ---
 
-## 📫 Developer
+## 📫 Connect with the Developer
 
-Built by **Atul Paul**. 
+Built with passion by **Atul Paul**. If you have an exciting project in mind or want to collaborate, let's talk!
+
 * 🌐 **Portfolio:** [atulpaul.vercel.app](https://atulpaul.vercel.app)
+* 📧 **Contact:** Reach out via the contact form on my website.
